@@ -1,0 +1,7 @@
+{
+    "markdown.marp.enableHtml": true,
+    "markdown-pdf.type": [
+        "pdf",
+        "html"
+    ]
+}
