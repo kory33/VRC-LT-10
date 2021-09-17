@@ -172,18 +172,6 @@ VRC-LT #10での発表内容何にしようかな～とTweetdeckを眺めなが�
 
 ---
 
-# Botの名前を募ったら…
-
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="ja" dir="ltr">急募：「正規表現ウミガメのスープ」を遊べるDiscord botの名前</p>&mdash; ぱそこんわからんねこ (@Kory__3) <a href="https://twitter.com/Kory__3/status/1437667095253192710?ref_src=twsrc%5Etfw">September 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="ja" dir="ltr">REGガメのスープ</p>&mdash; 星にゃーん (@takoeight0821) <a href="https://twitter.com/takoeight0821/status/1437667561605238786?ref_src=twsrc%5Etfw">September 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-## 採用
-
----
-
 # Bot作った
 
  * 2日と少し(14日夕方から16日夜)かけて、いなむ先生と共同作成
